@@ -1,0 +1,8 @@
+{
+  "name": "IonicGreeting",
+  "app_id": "f8fa0ab4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
